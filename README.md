@@ -1,5 +1,7 @@
 # case-itau
 
+Esse case foi realizado em um único dia. Posteriormente será refeito para notar melhoras de técnicas de analytics e data mining. 
+
 ## SQL
 
 Para as querys realizada em SQL foi utilizado o SGBD MySQL. O código está documentado com a função de cada código realizado, mas abaixo deixarei algumas querys realizadas.
